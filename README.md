@@ -18,3 +18,9 @@ A Minimax algorithm can be best defined as a recursive function that does the fo
 
 ## Play Here
 [Play it on CodePen](https://codepen.io/RakshitDalvi/details/abKWgXW)
+
+Contributors :
+1.Rakshit Dalvi
+2.Chayna Bhandarkar
+3.Kartik Yeole 
+4.Saloni Deshmukh
